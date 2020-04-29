@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css","TodoList.css"],"names":[],"mappings":"AAAA,KACE,YACF,CCFA,sBACE,SACF","file":"main.e85b398f.chunk.css","sourcesContent":[".App {\n  display: flex;\n}\n",".TodoList {\n  width: 50%;\n}\n"]}

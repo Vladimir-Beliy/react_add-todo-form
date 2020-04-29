@@ -1,0 +1,2 @@
+body,html{margin:0}#root,.App,body,html{height:100%}.AddNewTodo,.App{display:flex}.AddNewTodo{flex-direction:column;justify-content:space-between;box-sizing:border-box;width:50%;height:100px;padding:50px}.AddNewTodo>button{width:120px}.TodoList{box-sizing:border-box;width:50%;height:100%;margin:0;padding:0 0 0 40px;border-left:1px solid #000;overflow:auto}
+/*# sourceMappingURL=main.e11b59bc.chunk.css.map */
